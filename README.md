@@ -5,19 +5,18 @@
 
 <div align="center">
 
-# **Hey, this is marina 🦆🩻**
+# **hey, this is marina 🦆🩻**
 
 
 <img src="https://i.pinimg.com/originals/d4/e4/cb/d4e4cb0a31d3ce2eb5c9535f0d0f0f6c.gif" width="500" height="200"/>
-
-
-
-
-
-
 </div>
 
+---
+
+
+
 - 🌱 I’m currently learning **python** 🐍
+- 📫 How to reach me: **mdiogcasko@gmail.com**
 
 <!--
 **mdiogc/mdiogc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
