@@ -1,21 +1,3 @@
-<p align="center">
-  <img width="1000" height="300" src="https://i.pinimg.com/originals/c2/92/42/c29242077524e0d14dabf72395b3f081.jpg">
-</p>
-
-
-<div align="center">
-
-# Hey, I'm Marina 🦆
-
-### A web development student in Spain
-
-
-<img src="https://i.pinimg.com/originals/d4/e4/cb/d4e4cb0a31d3ce2eb5c9535f0d0f0f6c.gif" width="500" height="200"/>
-</div>
-
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdiogc&label=Profile%20views&color=0e75b6&style=flat" alt="mdiogc" /> 
-</p>
 
 
 
