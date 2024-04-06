@@ -1,7 +1,8 @@
 <div align=center>  
 <img src="https://64.media.tumblr.com/5647614b4b64985a45ba9f78cfffdb0a/tumblr_o3izb70rav1rp0vkjo1_500.gifv" height="%"/>
-  
-  # 𝕴 𝖑𝖎𝖐𝖊 𝖘𝖕𝖔𝖔𝖐𝖞 𝖆𝖓𝖉 𝖘𝖈𝖆𝖗𝖞 𝖙𝖍𝖎𝖓𝖌𝖘 🕷️
+
+<img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=50&duration=1&pause=1000&color=760505&background=B1FFD300&random=false&width=435&lines=I'm+Marina%2C+I+like+spooky+and+scary+things."/>
+
 
 </div>
 
