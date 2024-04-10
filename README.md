@@ -1,7 +1,7 @@
 <div align=center style="width: 100%;">
   <img src="https://64.media.tumblr.com/5647614b4b64985a45ba9f78cfffdb0a/tumblr_o3izb70rav1rp0vkjo1_500.gifv" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=35&pause=1000&color=A40E0E&random=false&width=435&lines=Hey%2C+I'm+Marina"/>
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=35&duration=1&pause=1000&color=A40E0E&random=false&width=435&lines=Hey%2C+I'm+Marina"/>
 
 </div>
 
