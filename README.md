@@ -1,13 +1,9 @@
-# ⛧ Hello, I'm marina!
+# ⛧⛧⛧⛧⛧⛧⛧⛧⛧⛧⛧⛧⛧⛧⛧⛧⛧
 
-<div align=center>  
-
- ![Banner](https://i.pinimg.com/originals/6b/b8/2d/6bb82d471ce62f55dd4c8860b8d9c2ac.gif)
-</div>
 
   <div align=center>  
 
-  ![Banner](https://i.pinimg.com/originals/15/9e/ef/159eef983809282adcf6a6d460ab9b0f.gif)
+  ![Banner](https://i.pinimg.com/736x/59/03/e0/5903e085808c8794b02697ad67fcba59.jpg)
 
   </div>
 
